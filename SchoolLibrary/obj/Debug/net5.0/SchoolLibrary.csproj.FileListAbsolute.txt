@@ -1,0 +1,12 @@
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.deps.json
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.dll
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\bin\Debug\net5.0\ref\SchoolLibrary.dll
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.pdb
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.dll
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\ref\SchoolLibrary.dll
+C:\Users\erwoodle\source\repos\SchoolApp\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.pdb
